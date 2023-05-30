@@ -1,0 +1,21 @@
+#tableBody {
+    border: 1px solid black;
+    color: white;
+}
+
+a {
+    color: white;
+    font-size: 20px;
+}
+
+.navee {
+    background: linear-gradient(to right, #e4a677, #ecd48a);
+}
+
+.button-data {
+    border: 1px solid white;
+}
+#delete{
+    padding:10px;
+    justify-content: end;
+}
